@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-capstonereality-dev-15118-authRole",
+            "UnauthRoleArn": "arn:aws:iam::922566612234:role/amplify-capstonereality-dev-15118-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::922566612234:role/amplify-capstonereality-dev-15118-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-capstonereality-dev-15118-deployment",
+            "UnauthRoleName": "amplify-capstonereality-dev-15118-unauthRole",
+            "StackName": "amplify-capstonereality-dev-15118",
+            "StackId": "arn:aws:cloudformation:ap-south-1:922566612234:stack/amplify-capstonereality-dev-15118/6739df50-c546-11ea-9f09-027843ee7a02",
+            "AmplifyAppId": "d29o7j8q12gldf"
+        },
+        "categories": {
+            "auth": {
+                "cognito703e6fc1": {}
+            }
+        }
+    }
+}

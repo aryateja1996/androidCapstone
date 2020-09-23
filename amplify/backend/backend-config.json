@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"cognito703e6fc1": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"analytics": {
+		"capstonereality": {
+			"service": "Pinpoint",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
